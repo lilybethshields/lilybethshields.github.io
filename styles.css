@@ -1,2 +1,7 @@
 body {font-family: 'Raleway', sans-serif; }
-	h1 {font-family: 'Arvo', serif;}
+h1 {font-family: 'Arvo', serif;}
+ul {list-style-type: none;}
+nav ul {
+	line-height: 1.8em;
+	font-size: 18px;
+}
