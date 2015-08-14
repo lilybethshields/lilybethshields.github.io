@@ -1,6 +1,10 @@
-body {font-family: 'Raleway', sans-serif; }
+body {font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
 
-h1 {font-family: 'Arvo', serif;}
+h1 {font-family: 'Arvo', serif;
+	color: #5a4b3f;
+	}
 
 ul {list-style-type: none;}
 
@@ -11,7 +15,8 @@ nav ul {
 
 li a i {color: #201886;
 }
+ul li > a {color: #87705f;}
 
-h2 {color: ;}
-
-li a {color: ;}
+h4, h2, h5 {color: #201886;
+			font-weight: bold;
+}
